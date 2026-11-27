@@ -146,6 +146,7 @@ Additional IELTS websites and official preparation materials that can help you f
 - [IELTS.org — Official Preparation Resources](https://ielts.org/take-a-test/preparation-resources)
 - [British Council — IELTS Preparation Materials](https://takeielts.britishcouncil.org/prepare/ielts-preparation-materials)
 - [IDP IELTS](https://www.idp.com/ielts/)
+- [OpenExam Hub](https://openexamhub.org/exams/ielts) - Free, MIT-licensed study planner that turns official public IELTS materials into a day-by-day plan. A free account is required to generate a plan; a sample can be previewed first. There is no paid tier.
 
 
 ---
